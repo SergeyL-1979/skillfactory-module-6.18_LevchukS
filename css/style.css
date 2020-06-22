@@ -1,0 +1,17 @@
+/* body {
+    display: flex;
+    margin: 10px;
+} */
+
+.progress {
+    margin: 20px;
+    
+}
+.but {
+    margin: 10px;
+    
+}
+.btn-third {
+    background-color: blue;
+    color: #ffffff;
+}
